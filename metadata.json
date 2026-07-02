@@ -1,0 +1,6 @@
+{
+  "name": "Diseño de Presas de Gravedad",
+  "description": "Software interactivo de diseño y verificación de estabilidad de presas de gravedad de concreto por el método de cuerpo rígido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
